@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="330bc972-a349-4d2f-8d10-04b1371e264c" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/hamming.in" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch2/L1/hamming.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch2/L1/hamming.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,11 +28,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="frac1.out" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/frac1.out">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file leaf-file-name="sort3.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Ch2/L1/sort3.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -46,7 +43,7 @@
       <file leaf-file-name="holstein.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Ch2/L1/holstein.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="994">
+            <state relative-caret-position="180">
               <caret line="85" column="5" lean-forward="true" selection-start-line="85" selection-start-column="5" selection-end-line="85" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -64,10 +61,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Maze.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Maze.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Ch2/L1/Maze.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-285">
+            <state relative-caret-position="615">
               <caret line="41" selection-start-line="41" selection-end-line="41" />
               <folding>
                 <element signature="e#554#555#0" expanded="true" />
@@ -81,15 +78,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hamming.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="hamming.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Ch2/L1/hamming.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            <state relative-caret-position="157">
+              <caret line="47" column="58" selection-start-line="47" selection-start-column="58" selection-end-line="47" selection-end-column="58" />
               <folding>
-                <element signature="e#0#71#0" expanded="true" />
+                <element signature="e#0#201#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hamming.out" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hamming.out">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="hamming.in" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hamming.in">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -106,15 +117,6 @@
       <file leaf-file-name="holstein.out" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/holstein.out">
           <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="milk3.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ch1/L5/milk3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-            </state>
-          </provider>
         </entry>
       </file>
     </leaf>
@@ -146,7 +148,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Ch1/L4/milk.java" />
         <option value="$PROJECT_DIR$/barn1.in" />
         <option value="$PROJECT_DIR$/src/Ch1/L4/barn1.java" />
         <option value="$PROJECT_DIR$/crypt1.in" />
@@ -194,9 +195,10 @@
         <option value="$PROJECT_DIR$/src/Ch2/L1/sort3.java" />
         <option value="$PROJECT_DIR$/holstein.in" />
         <option value="$PROJECT_DIR$/src/Ch2/L1/holstein.java" />
-        <option value="$PROJECT_DIR$/src/Ch2/L1/hamming.java" />
         <option value="$PROJECT_DIR$/src/Ch2/L1/Main.java" />
         <option value="$PROJECT_DIR$/src/Ch2/L1/Maze.java" />
+        <option value="$PROJECT_DIR$/hamming.in" />
+        <option value="$PROJECT_DIR$/src/Ch2/L1/hamming.java" />
       </list>
     </option>
   </component>
@@ -303,7 +305,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Maze">
+  <component name="RunManager" selected="Application.hamming">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ch2.L1.Main" />
       <module name="USACO" />
@@ -323,8 +325,8 @@
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="frac1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="frac1" />
+    <configuration name="hamming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hamming" />
       <module name="USACO" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -390,19 +392,19 @@
     </configuration>
     <list>
       <item itemvalue="Plugin.Plugin" />
-      <item itemvalue="Application.frac1" />
       <item itemvalue="Application.sort3" />
       <item itemvalue="Application.holstein" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Maze" />
+      <item itemvalue="Application.hamming" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.hamming" />
         <item itemvalue="Application.Maze" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.holstein" />
         <item itemvalue="Application.sort3" />
-        <item itemvalue="Application.frac1" />
       </list>
     </recent_temporary>
   </component>
@@ -456,20 +458,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sleepy.in">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Competition/sleepy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" column="63" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/guess.out">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -744,27 +732,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch2/L1/hamming.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#71#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch2/L1/holstein.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="994">
-          <caret line="85" column="5" lean-forward="true" selection-start-line="85" selection-start-column="5" selection-end-line="85" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch2/L1/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -774,7 +741,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch2/L1/Maze.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-285">
+        <state relative-caret-position="615">
           <caret line="41" selection-start-line="41" selection-end-line="41" />
           <folding>
             <element signature="e#554#555#0" expanded="true" />
@@ -783,6 +750,37 @@
             <element signature="e#671#672#0" expanded="true" />
             <element signature="e#834#835#0" expanded="true" />
             <element signature="e#881#882#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch2/L1/holstein.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="85" column="5" lean-forward="true" selection-start-line="85" selection-start-column="5" selection-end-line="85" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hamming.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hamming.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch2/L1/hamming.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="47" column="58" selection-start-line="47" selection-start-column="58" selection-end-line="47" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#201#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
